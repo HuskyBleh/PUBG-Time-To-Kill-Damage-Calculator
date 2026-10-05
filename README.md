@@ -1,6 +1,7 @@
 # PUBG Time-To-Kill Damage Calculator
 
 Original creator: "HuskyBleh" from https://space.bilibili.com/453575851
+
 All code here was created by myself. If you wish to use this program, please mention me somewhere, thank you :)
 
 It should be noted that this calculator ONLY works for the game PUBG found on Steam; the mobile version is a completely different game. If you were to download and modify this program, keep in mind that all weapon multipliers are one to one accurate with the game, and if changed, will not represent what actually happens in-game. Therefore, please be cautious when making any claims about weapon damage if you decide to modify this program.
