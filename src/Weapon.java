@@ -37,7 +37,7 @@ public class Weapon
             return damage * weaponType.getLimbMultiplier() * 0.45;
         else if (num < 100) // hands or feet 5% chance
             return damage * weaponType.getLimbMultiplier() * 0.30;
-        throw new IllegalStateException("Random value out of range.");
+        throw new IllegalStateException("Error: Random value out of range...");
     }
 
     // simple getter methods
